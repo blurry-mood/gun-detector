@@ -34,8 +34,8 @@ The resutlts will be found in `yolov5/runs/detect`
 ## Data Samples:
 Raw image                  |  YOLOV5 predictions
 :-------------------------:|:-------------------------:
-![](_imgs/knife_1333.jpg) | ![](_imgs/knife_1333_yolo.jpeg)
-![](_imgs/ABsframe00121.jpg) | ![](_imgs/ABsframe00121_yolo.jpeg)
+![](_imgs/knife_1333.jpg) | ![](_imgs/knife_1333_yolo.jpg)
+![](_imgs/ABsframe00121.jpg) | ![](_imgs/ABsframe00121_yolo.jpg)
 
 
 ## Model summary:
